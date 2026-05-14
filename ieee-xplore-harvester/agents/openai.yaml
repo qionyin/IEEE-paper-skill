@@ -1,0 +1,4 @@
+interface:
+  display_name: "IEEE Xplore Harvester"
+  short_description: "Edge浏览器CDP协议驱动的IEEE Xplore文献自动化采集工具，支持元数据提取、PDF下载和报告生成"
+  default_prompt: "使用CDP连接已登录的Edge浏览器，在IEEE Xplore上搜索学术文献，提取元数据并下载PDF全文到本地。请告诉我搜索关键词、年份范围和目标篇数。"
